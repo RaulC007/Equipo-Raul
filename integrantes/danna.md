@@ -1,0 +1,4 @@
+- **Nombre:** Danna Vargas Mena
+- **Carrera:** Licenciatura en ingenieria en Software
+- **Una frase:** Buenos dias 
+- **Foto:** `![foto](https://github.com/tu-usuario.png)`
